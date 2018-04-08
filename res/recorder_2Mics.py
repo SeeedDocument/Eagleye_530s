@@ -3,7 +3,7 @@ import wave
 
 FORMAT = pyaudio.paInt16
 CHANNELS = 2
-RATE = 44100
+RATE = 48000
 CHUNK = 1024
 RECORD_SECONDS = 10
 WAVE_OUTPUT_FILENAME = "test.wav"
